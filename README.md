@@ -24,3 +24,4 @@ Python 3.6 or higher
 PyQt5
 psutil
 scapy
+This project is licensed under the MIT License.
